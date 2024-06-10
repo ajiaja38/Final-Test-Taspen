@@ -1,0 +1,12 @@
+{
+  "name": "final-taspen",
+  "version": "1.0.0",
+  "description": "Final Test PT Taspen",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M. Aji Perdana",
+  "license": "ISC"
+}
